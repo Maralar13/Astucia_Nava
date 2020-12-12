@@ -1,0 +1,14 @@
+fastapi==0.62.0
+uvicorn==0.12.3
+pydantic==1.7.3
+## requests
+
+
+
+##echo "# cajero-api3" >> README.md 
+##git init
+## git add README.md 
+## git commit -m "first commit" 
+ ##git branch -M main 
+ ##git remote add origin github.com/nombre_usuario/cajero-api.git
+##  git push -u origin main
